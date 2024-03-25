@@ -1,6 +1,5 @@
 ## innobyte_webdeveloper_task
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Description
 
